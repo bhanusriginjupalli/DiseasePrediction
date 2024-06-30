@@ -15,3 +15,15 @@ BMI: Body mass index (weight in kg/(height in m)^2)<br>
 DiabetesPedigreeFunction: Diabetes pedigree function (a function that scores likelihood of diabetes based on family history)<br>
 Age: Age in years<br>
 Outcome: Class variable (0 or 1) indicating whether the patient has diabetes (1) or not (0)<br>
+Features<br>
+Machine Learning Model: Utilizes scikit-learn for model training and evaluation.<br>
+Data Preprocessing: Includes data cleaning, handling missing values, and feature scaling.<br>
+Model Evaluation: Measures model performance using metrics such as accuracy, precision, recall, and F1 score.<br>
+Visualization: Uses matplotlib and seaborn for visualizing data distributions, correlations, and model evaluation metrics.<br>
+Technologies Used<br>
+Python<br>
+scikit-learn<br>
+pandas<br>
+numpy<br>
+matplotlib<br>
+seaborn<br>
